@@ -1,0 +1,8 @@
+[
+    {"id": 1, "name": "Python Programming", "keywords": ["python", "programming", "coding", "development"]},
+    {"id": 2, "name": "Machine Learning", "keywords": ["machine learning", "ai", "artificial intelligence", "data science"]},
+    {"id": 3, "name": "Flask Web Development", "keywords": ["flask", "web development", "python", "web framework"]},
+    {"id": 4, "name": "JavaScript Essentials", "keywords": ["javascript", "programming", "web development", "frontend"]},
+    {"id": 5, "name": "React.js Guide", "keywords": ["react", "javascript", "frontend", "web development"]},
+    {"id": 6, "name": "Data Structures", "keywords": ["data structures", "programming", "computer science", "algorithms"]}
+]
